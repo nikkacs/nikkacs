@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikkacs" alt="nikkacs" /></a> </p>
 
-- 🔭 I’m currently working on [Country Strike: 2](https://github.com/nikkacs/cs2_sdk)
+- 🔭 I’m currently working on [Counter Strike: 2](https://github.com/nikkacs/cs2_sdk)
 
 - 🌱 I’m currently learning **Reverse Engineering**
 
 - 📫 Reach me on discord **m4teelias**
 
-- 📄 Know about my old projects. (Secondary developer) **[Zeus(getze), weedbot, nemesis.]**
+- 📄 Know about my old projects.  **[Zeus(getze), weedbot, nemesis.]**
 - ⚡ Fun fact **I think that csgo is better than cs2😁**
 
 <h3 align="left">Connect with me:</h3>
