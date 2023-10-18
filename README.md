@@ -11,8 +11,7 @@
 
 - 📫 Reach me on discord **m4teelias**
 
-- 📄 Know about my old projects. (Secondary developer) [Zeus(getze), weedbot, nemesis.](Zeus(getze), weedbot, nemesis.)
-
+- 📄 Know about my old projects. (Secondary developer) **[Zeus(getze), weedbot, nemesis.]**
 - ⚡ Fun fact **I think that csgo is better than cs2😁**
 
 <h3 align="left">Connect with me:</h3>
