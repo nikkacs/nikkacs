@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Counter Strike: 2](https://github.com/nikkacs/cs2_sdk)
 
 
-- 📫 Reach me on discord **m4teelias**
+- 📫 Reach me on discord 
 
 - 📄 Know about my old projects.  **[Zeus(getze), weedbot, nemesis.]**
 - ⚡ Fun fact **I think that csgo is better than cs2😁**
